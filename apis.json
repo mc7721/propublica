@@ -1,0 +1,83 @@
+{
+    "name": "ProPublica",
+    "description": "A Pulitzer-winning, non-profit newsroom focused on investigative journalism in the public interest. We are independent and funded largely through donations. For more information, please see: http:\/\/www.propublica.org\/about",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1466-propublica.jpg",
+    "tags": [
+        "coroner",
+        "death",
+        "have api",
+        "politics",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/propublica\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ProPublica",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1466-propublica.jpg",
+            "humanURL": "http:\/\/projects.propublica.org\/forensics\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/propublica-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/propublica-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/projects.propublica.org\/forensics\/api"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/propublica"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@propublica.org"
+        },
+        {
+            "type": "Email",
+            "url": "Minhee.Cho@propublica.org"
+        },
+        {
+            "type": "Email",
+            "url": "illinois@propublica.org"
+        },
+        {
+            "type": "Email",
+            "url": "tips@propublica.org"
+        },
+        {
+            "type": "Email",
+            "url": "media@propublica.org"
+        },
+        {
+            "type": "Email",
+            "url": "mick.dumke@propublica.org"
+        },
+        {
+            "type": "Email",
+            "url": "talia.buford@propublica.org"
+        },
+        {
+            "type": "Email",
+            "url": "hello@propublica.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ProPublica"
+        }
+    ]
+}
